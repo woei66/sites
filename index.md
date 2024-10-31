@@ -3,9 +3,17 @@
 * 2023-2024 Human Aura Analysis
 * 2019-2023 Artificial Intelligence (AI)
 
+
 # Media Exposure
+* 2021 TIE Taiwan Innovation Technology Expo / Innovation Pioneer Pavilion National Development Council TIE
+* 2021 Taoyuan Startup Day
+* 2020 Meet Taipei Taoyuan Pavilion
 * 2020 "Small Capital, Big Entrepreneurship" Radio Recording
+* 2020 CES 2021 Bootcamp Exhibition
 * 2020 Meet Taipei
+* 2020 New Generation Youth City Forum Innovation and Entrepreneurship Market Exhibition
+* 2020 Taoyuan Startup Day
+* 2019 Taoyuan Startup Carnival
 
 # Company Products
 * 2024 Human Aura (Reiki Field, Human Energy Field) Analysis
@@ -28,8 +36,15 @@
 * 2019-2023年人工智慧AI
  
 # 媒體曝光
+* 2021 TIE台灣創新技術博覽會/創新領航館國發會TIE
+* 2021桃園新創日
+* 2020 Meet Taipei 桃園館
 * 2020年「小資本大創業」廣播錄製
+* 2020 CES 2021 Bootcamp參展
 * 2020 Meet Taipei 
+* 2020新世代青年城市論壇創新創業市集參展
+* 2020桃園新創日
+* 2019桃園新創嘉年華
 
 # 公司產品
 * 2024年人體氣場(靈氣場,人體能量場)Aura分析
