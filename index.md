@@ -48,7 +48,7 @@
 
 # 公司產品
 * 2024年人體氣場Aura分析 https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
-* 2022年全球訂房系統串接服務(包括Booking.com, Expedia.com, Airabnb.com)
+* 2022年全球訂房系統串接服務(包括 Booking.com, Expedia.com, Airabnb.com)
 * 2020年中國發明專利「网路物件标签管理方法与系统 」
 * 2020年使用BERT model建立的全球飯店評價分析
 * 2019年與Hotelbeds合作提供全球飯店訂房
