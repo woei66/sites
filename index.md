@@ -16,9 +16,8 @@
 * 2019 Taoyuan Startup Carnival
 
 # Company Products
-* 2024 Human Aura (Reiki Field, Human Energy Field) Analysis https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
-* 2022 Global Booking System Integration Service (including Booking.com, Expedia.com, Airbnb.com)
-* 2020 Chinese Invention Patent "Network Object Tag Management Method and System"
+* 2024 Human Aura (Human Energy Field) Analysis https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
+* 2022 Global Booking System Integration Service
 * 2020 Global Hotel Review Analysis Using BERT Model
 * 2019 Collaboration with Hotelbeds to Provide Global Hotel Booking
 
@@ -48,9 +47,8 @@
 
 # 公司產品
 * 2024年人體氣場Aura分析 https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
-* 2022年全球訂房系統串接服務(包括 Booking.com, Expedia.com, Airabnb.com)
-* 2020年中國發明專利「网路物件标签管理方法与系统 」
-* 2020年使用BERT model建立的全球飯店評價分析
+* 2022年全球訂房系統串接服務
+* 2020年全球飯店評價分析
 * 2019年與Hotelbeds合作提供全球飯店訂房
  
 # 獲獎紀錄
