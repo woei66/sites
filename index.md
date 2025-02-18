@@ -19,7 +19,7 @@
 * 2024 Human Aura (Human Energy Field) Analysis https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
 * 2022 Global Booking System Integration Service
 * 2020 Global Hotel Review Analysis
-* 2019 Collaboration with Hotelbeds to Provide Global Hotel Booking
+* 2019 Provide Global Hotel Booking
 
 # Awards and Recognition
 * 2021.09 Awarded by Taoyuan City Government for "Local Industry Innovation R&D Promotion Program" (SBIR) (FY 110)
@@ -31,25 +31,25 @@
 * 2019.12 1st IAIC Startup Pioneer Award
 
 # 核心技術
-* 2023-2024年人體氣場 Aura分析
-* 2019-2023年人工智慧AI
+* 2023-2024年 人體氣場 Aura分析
+* 2019-2023年 人工智慧AI
  
 # 媒體曝光
-* 2021 TIE台灣創新技術博覽會/創新領航館國發會TIE
-* 2021桃園新創日
-* 2020 Meet Taipei 桃園館
-* 2020年「小資本大創業」廣播錄製
-* 2020 CES 2021 Bootcamp參展
-* 2020 Meet Taipei 
-* 2020新世代青年城市論壇創新創業市集參展
-* 2020桃園新創日
-* 2019桃園新創嘉年華
+* 2021年 TIE台灣創新技術博覽會/創新領航館國發會TIE
+* 2021年 桃園新創日
+* 2020年 Meet Taipei 桃園館
+* 2020年 「小資本大創業」廣播錄製
+* 2020年 CES 2021 Bootcamp參展
+* 2020年 Meet Taipei 
+* 2020年 新世代青年城市論壇創新創業市集參展
+* 2020年 桃園新創日
+* 2019年 桃園新創嘉年華
 
 # 公司產品
-* 2024年人體氣場Aura分析 https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
-* 2022年全球訂房系統串接服務
-* 2020年全球飯店評價分析
-* 2019年與Hotelbeds合作提供全球飯店訂房
+* 2024年 人體氣場Aura分析 https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
+* 2022年 全球訂房系統串接服務
+* 2020年 全球飯店評價分析
+* 2019年 全球飯店訂房
  
 # 獲獎紀錄
 * 2021.09 桃園市政府「地方產業創新研發推動計畫」(SBIR)獲獎(110年度)
