@@ -8,7 +8,6 @@
 * 2021 TIE Taiwan Innovation Technology Expo / Innovation Pioneer Pavilion National Development Council TIE
 * 2021 Taoyuan Startup Day
 * 2020 Meet Taipei Taoyuan Pavilion
-* 2020 "Small Capital, Big Entrepreneurship" Radio Recording
 * 2020 CES 2021 Bootcamp Exhibition
 * 2020 Meet Taipei
 * 2020 New Generation Youth City Forum Innovation and Entrepreneurship Market Exhibition
@@ -38,7 +37,6 @@
 * 2021年 TIE台灣創新技術博覽會/創新領航館國發會TIE
 * 2021年 桃園新創日
 * 2020年 Meet Taipei 桃園館
-* 2020年 「小資本大創業」廣播錄製
 * 2020年 CES 2021 Bootcamp參展
 * 2020年 Meet Taipei 
 * 2020年 新世代青年城市論壇創新創業市集參展
