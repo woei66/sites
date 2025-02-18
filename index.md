@@ -18,7 +18,7 @@
 # Company Products
 * 2024 Human Aura (Human Energy Field) Analysis https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
 * 2022 Global Booking System Integration Service
-* 2020 Global Hotel Review Analysis Using BERT Model
+* 2020 Global Hotel Review Analysis
 * 2019 Collaboration with Hotelbeds to Provide Global Hotel Booking
 
 # Awards and Recognition
