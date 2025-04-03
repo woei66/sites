@@ -24,4 +24,4 @@ Samuel 協助海奧華預言這本書在台灣跟中國的出版, 並努力推�
 
 # 關於海奧華預言
 * 要快速了解海奧華預言,可以看老高與小茉的影片介紹 https://www.youtube.com/watch?v=1rUWY2z4wUk
-* 海奧華語言有專屬的網站, 請參考 https://thiaoouba.com/
+* 海奧華預言有專屬的網站, 請參考 https://thiaoouba.com/
