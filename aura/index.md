@@ -8,7 +8,7 @@
 # 關於 Judith Collins
 Judith Collins 居住在澳洲, 從小就具有能看到Aura的能力, 由於其特殊能力, 因此被受邀到世界各國演講並教授跟分享Aura.
 * Judith Collins 有架設一個介紹Aura的網站, 網址為 https://yourhumanaura.com/
-* 如果你想預約 Judith Collins 幫你畫Aura並且提供Aura解讀, 可以直接在她網站上預約 https://yourhumanaura.com/ 可以用信用卡付款. 你只要提供一張你的照片, 不需要提供個人資料, 她就可以幫你解讀你的氣場. 不要拿別人的照片請 Judith 幫你解讀別人的氣場, 她不會幫你解讀別人的氣場.
+* 如果你想預約 Judith Collins 幫你畫Aura並且提供Aura解讀, 可以直接在她網站上預約 https://yourhumanaura.com/ 可以用信用卡付款. 你只要提供一張你的照片, 不需要提供個人資料, 她就可以幫你解讀你的氣場. 
 
 ## 與 Judith Collins 有關的Youtube 影片
 你如果對Aura不了解, 或者希望可以對Aura有更深入的了解, 可以觀看以下 Judith Collins 的訪談影片
