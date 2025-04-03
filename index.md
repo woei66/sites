@@ -1,6 +1,6 @@
 
 # Core Technologies
-* 2023-2024 Human Aura Analysis 
+* 2023-2025 Aura Analysis 
 * 2019-2023 Artificial Intelligence (AI)
 
 
@@ -15,7 +15,7 @@
 * 2019 Taoyuan Startup Carnival
 
 # Company Products
-* 2024 Human Aura (Human Energy Field) Analysis https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
+* 2024 Aura (Human Energy Field) Analysis https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
 * 2022 Global Booking System Integration Service
 * 2020 Global Hotel Review Analysis
 * 2019 Provide Global Hotel Booking
@@ -30,7 +30,7 @@
 * 2019.12 1st IAIC Startup Pioneer Award
 
 # 核心技術
-* 2023-2024年 人體氣場 Aura分析
+* 2023-2025年 氣場 Aura分析 (<a href="/aura/">何謂Aura氣場?</a>)
 * 2019-2023年 人工智慧AI
  
 # 媒體曝光
@@ -44,7 +44,7 @@
 * 2019年 桃園新創嘉年華
 
 # 公司產品
-* 2024年 人體氣場Aura分析 https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
+* 2024年 氣場Aura分析 https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
 * 2022年 全球訂房系統串接服務
 * 2020年 全球飯店評價分析
 * 2019年 全球飯店訂房
