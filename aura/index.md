@@ -1,7 +1,7 @@
 # 關於Aura
 * Aura 的中文翻譯有很多種,沒有固定的翻譯詞. 可以翻譯成氣場,靈氣,能量場或者能量光環. 在台灣出版的「海奧華預言」跟「認識的你的能量光環」書中, Samuel 翻譯Aura為「氣場」, 這裡統一以「氣場」Aura.
-*  Samuel 是海奧華預言的譯者, 你可以從博客來網站訂購海奧華預言 https://www.books.com.tw/products/0010846057?sloc=main
-* 關於「認識的你的能量光環」也可以從博客來網站訂購 https://www.books.com.tw/products/0011008520?sloc=main
+* Samuel 是海奧華預言的譯者, 本書可以從博客來網站訂購海奧華預言 https://www.books.com.tw/products/0010846057?sloc=main
+* Judith Collins 是「認識的你的能量光環」的作者, 本書可以從博客來網站訂購 https://www.books.com.tw/products/0011008520?sloc=main
 * 氣場不是氣功,氣場不是脈輪(Chakras).
 * 想看到氣場可以透過訓練. 不過就算看得到氣場,你能夠看到的顏色可能也是不齊全的. 另外,你不會知道如何解讀氣場中各種顏色代表的意義.
 
