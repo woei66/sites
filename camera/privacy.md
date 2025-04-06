@@ -14,7 +14,7 @@ This Privacy Policy is structured as follows:
 1. Definitions
 You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 TRIPBNB developer is be referred to "We", "Us" or "Our" in this Agreement.
-Application means the software program provided by TRIPBNB downloaded by You on any electronic device, named Camera.
+Application means the software program provided by TRIPBNB downloaded by You on any electronic device.
 
 2. How We Collect Information
 We collect information in order to provide you with better, higher-quality, and more personalized services. We collect information by the following means:
