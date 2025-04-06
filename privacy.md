@@ -1,53 +1,66 @@
-隱私權政策
+Privacy Policy 
+Your privacy is important to Our App Service. Our Privacy Policy covers how we collect, use, disclose, transfer, and store your information. We hope our policy is straightforward and easy-to-understand. Please take a minute to review the details of our privacy practices below.
+This Privacy Policy is structured as follows:
+1. Definitions
+2. How We Collect Information & How We Use Information
+3. Third party accounts & Sharing of personal data
+4. Legal basis for data processing
+5. International transfers of personal data
+6. Children's Privacy
+7. Your rights
+8. Changes
+9. Contact Us
 
-除了本網站會為您的個人資料（包含隱私、聯絡資料等）依據中華民國個人資料保護法為捍衛外，為進一步讓您了解您自身隱私權益，以下將簡潔說明關於您的隱私之權益：
+1. Definitions
+You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+TRIPBNB developer is be referred to "We", "Us" or "Our" in this Agreement.
+Application means the software program provided by TRIPBNB downloaded by You on any electronic device.
 
-一、有關您的個人資料保存、刪除和權利，您可來信請求行使以下權利：
+2. How We Collect Information
+We collect information in order to provide you with better, higher-quality, and more personalized services. We collect information by the following means:
+(I)When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.
+(II)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.
 
-（一）依個人資料保護法第三條規定，就您的個人資料而言，得請求以下權利：
+How We Use Information
+We use the information collected through this app product: 
+(I) to communicate with you; (II) to process your requests and transactions; (III) to improve the app; (IV) to customize the services and/or products we provide to you; (V) to assist with our product and service development; (VI) to perform marketing analysis; and (VII) for other purposes related to our business.
 
-1.查詢或請求閱覽或製給複製本，本公司依法得酌收必要成本費用，但有妨害本公司或第三人之重大利益者，本公司得拒絕之。
+3. Third party accounts
+Our App Service does not store any other third part service passwords. Your account information is not disclosed to this app and you are free to cancel any of your social networking website connections with this app at any time. 
 
-2.請求補充或更正。
+Sharing of personal data
+To improve our product and provide you better service, we also share personal data with vendors or agents working on our behalf for the purposes described in this privacy policy. For example, companies we've hired to provide data analytical services may need collect and access to personal data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements.
 
-3. 請求停止搜集、處理或利用。
+4. Legal basis for data processing
+We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract with you (for example, to provide you with the services you request and to identify and authenticate you so you may use the Sites); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you, to ensure the security of our services, to communicate with you about our products and services); and based on consent by our customers (for example, to place certain cookies and to share your information with third parties for advertising purposes).  
 
-4.資料利用期間期滿或特定目的消失後得請求停止蒐集、處理、利用或刪除，但本公司為執行職務或業務所必須者不在此限。。
+In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our App.
 
-（二）您保有以下被通知的權利：
+5. International transfers of personal data
+Our business may require us to transfer your Personal Data to countries outside of the European Economic Area ("EEA"), including to countries such as the People' s Republic of China or Singapore. We take appropriate steps to ensure that recipients of your Personal Data are bound to duties of confidentiality and we implement measures such as standard contractual clauses. A copy of those clauses can be obtained by contacting our Help Center.
 
-1.有關個人資料的來源。2.有關處理的目的和方法。3.有關我們所揭露您個人資料的特定第三人身分。
+6. Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
-（三）您保有獲得以下資訊的權利：
+7. Your rights
+Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data.  
 
-1.更新、改正、整合後的您的個人資訊。
+Where the use of your information is based on consent, you can withdraw this consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
 
-2.若處理程序不合法，您可要求刪去、隱匿您的個人資料。（四）您保有全部或一部拒絕以下處理程序的權利：
+Requests should be submitted by contacting us through our developer account e-Mail.
 
-1.在合法、合理的情況下，以蒐集為目的來處理您的個人資料。
+If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data infringes applicable law.
 
-2.處理您個人資料之目的是為寄送廣告資料或直接向您銷售服務或其他提供您偏好線上訂房服務。
+We retain your Personal Data as long as needed to provide services or products to you, or as required or permitted by applicable laws, such as tax and accounting laws.
 
-（五）若您所提供之個人資料有以下情形，將有權停止或終止提供對您的服務：
+Transparency and Choice
+You can also control which social websites you wish to share or upload.
 
-經檢舉或本網站發現不足以確認您的身分真實性或有其他個人資料冒用、盜用、資料不實等情形，本網站有權停止或終止提供對您的服務，若有不便之處敬請見諒。
+8. Changes
+Our Privacy Policy may change occasionally. We will not reduce your rights under this Privacy Policy without providing explicit, advance notice. 
+We will post any privacy policy changes on this page and, in the event of significant changes, we will provide a more prominent notice (such as an email notification). 
+Changes to this Privacy Policy are effective when they are posted on this page.
 
-cookie 政策
-
-為便利會員與使用者使用，本網站會在您的電腦上設定並存取 cookie， cookie 是網站伺服器用來和瀏覽器進行溝通的一種技術，它能辨識區別使用者，以保存使用者上次造訪本網站的設定與一些快取資料，節省使用者時間，及顯示更貼近使用者需求的廣告、計算網頁的訪客人數，使用者可以自由經由瀏覽器的設定，取消或限制此項功能。
-
-您可以選擇修改您的瀏覽器對cookies的接受程度，如果您使用ie，這項功能在「Internet選項」的「安全性中」。如果您使用 Chrome，依序按一下右上方的「更多」點選[設定]，再按一下底部的[進階]，在『隱私權和安全性』底下，依序按一下[網站設定]>[cookie]進行修改。如果您選擇拒絕所有的cookies，您就可能無法使用部份個人化服務，或是參與網站上部份的活動。
-
-本網站為提供您優良的線上訂房搜尋引擎與訂房服務，且為提升使用者與會員輸入資料的方便性與準確性，本網站會採用 cookies 政策來儲存您所瀏覽、搜尋的資料。故本網站在本政策下，在您瀏覽器中寫入並讀取cookies。
-
-管轄法院、準據法以及補充
-
-（一）本契約得以電子文件代替書面契約。
-
-（二）本契約以中華民國之法律為準據法。會員、使用者或是參與本網站提供服務對於本服務、本服務條款及本服務之相關規範所生之爭議，同意以臺灣桃園地方法院為第一審管轄法院。又此本契約之相關條款之中文原版文件可能會被翻譯成多種語言。該中文版之譯文文件僅為禮貌性、辦公室翻譯文本。若日後產生衝突或是中文原件與翻譯版本存在不一致性，僅以中文原件為準。此中文原件可在本網站上獲得（語言切換選擇中文），或根據您電子郵件寄送要求發送給您。
-
-（三) 本契約條文如有未盡事宜，經雙方同意得以附件補充之，如有疑義應由雙方本友善互助之原則協商處理。
-
-（四）本契約以電子文件形式行之，或使用本網站進行線上訂房、旅遊各項相關服務時，即視為已閱讀、暸解、並同意以上約定條款的所有內容。
-
-（五）若您對自己在本網站中有關使用者條款或是隱私權政策、cookie政策等條款有任何疑問，都歡迎來電詢問（僅通過電話）。
+9. Contact Us
+If you have any questions regarding this Privacy Policy, please feel free to contact us via david@tripbnb.tw, we will endeavor to provide clear answers to your questions in a timely manner.
+        
