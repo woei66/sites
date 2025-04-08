@@ -15,6 +15,7 @@
 * 2019 Taoyuan Startup Carnival
 
 # Company Products
+* 2025 Aura Paint (for Healers) https://play.google.com/store/apps/details?id=com.tripbnb.aurapaint
 * 2024 Aura (Human Energy Field) Analysis https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
 * 2022 Global Booking System Integration Service
 * 2020 Global Hotel Review Analysis
@@ -44,6 +45,7 @@
 * 2019年 桃園新創嘉年華
 
 # 公司產品
+* 2025年 氣場筆Aura Paint(療癒師專用) https://play.google.com/store/apps/details?id=com.tripbnb.aurapaint
 * 2024年 氣場Aura分析 https://play.google.com/store/apps/details?id=com.tripbnb.auracamera
 * 2022年 全球訂房系統串接服務
 * 2020年 全球飯店評價分析
